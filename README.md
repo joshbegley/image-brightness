@@ -1,2 +1,1 @@
-# image-brightness
-Sort images based on brightness
+Sort images based on mean brightness
